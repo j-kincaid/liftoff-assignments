@@ -1,3 +1,17 @@
+# Liftoff Learners
+
+## Section: Kansas City (February 2019)
+
+### LaunchCode Staff Repos
+
+- [Matthews, Paul (@pdmxdd)](https://www.github.com/pdmxdd/liftoff-assignments)
+
+
+### Example's Group
+- [Student, Example (@ExampleLiftoffStudent)](https://github.com/ExampleLiftoffStudent/liftoff-assignments)
+
+<!-- Updated on GitHub one hour ago ^^^^ -->
+
 # Online Profiles
 For this assignment you will need to upload your resume, and provide links to your GitHub account, and your LinkedIn account.
 
@@ -8,11 +22,11 @@ For this assignment you will need to upload your resume, and provide links to yo
  
 ### GitHub
 Provide a link to your GitHub account here.
-(https://github.com/j-kincaid)
+[Kincaid, Jessica (@j-kincaid)](https://github.com/j-kincaid/liftoff-assignments.git)
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
-(https://www.linkedin.com/in/jessicakincaid/)
+[Kincaid, Jessica](https://www.linkedin.com/in/jessicakincaid/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.

@@ -10,7 +10,7 @@
 ### Example's Group
 - [Student, Example (@ExampleLiftoffStudent)](https://github.com/ExampleLiftoffStudent/liftoff-assignments)
 
-<!-- Updated on GitHub one hour ago ^^^^ -->
+
 
 # Online Profiles
 For this assignment you will need to upload your resume, and provide links to your GitHub account, and your LinkedIn account.

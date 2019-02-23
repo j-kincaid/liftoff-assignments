@@ -1,49 +1,61 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
 
 ## Submission Instructions
 
-
-
-
 ### Overview
+
 “An Application for the Charlotte Street Foundation Open Studios Event”
 
-The Charlotte Street Foundation, a Kansas City arts nonprofit, hosts residencies for artists on the sixth floor of the Town Pavilion. Every April, in an Open Studios event, the public is invited for an inside look at the artistic practice of our residents and their creative processes. 
+The Charlotte Street Foundation, a local arts nonprofit, manages studio residencies for performers, visual artists and writers on the sixth floor of the Town Pavilion. In April we will invite the public to our Open Studios event for an inside look at our art, studios and our creative processes. 
 
-This year, a visual artist named Benjamin Willis will sell grilled cheese sandwiches for $10 in his studio. In order to receive a free sandwich, event attendees must visit the studio of each resident, where they will receive a code to be entered in their mobile device upon touring the studio. Upon registration at the door, visitors will select from tantalizing breads and cheeses (including vegan options). When the passport is complete, it can be redeemed for 100% discount for the price of a sandwich. 
+The “Studio Visit” or ”Patron Passport” app will serve as a virtual passport to log the attendees’ studio visits. Participation will be 100% voluntary, as we want to encourage meaningful exchanges between artists and their guests. It is an opportunity for artists to inform the public about their art, and also a potential setting for sales and connecting to galleries and exhibition curators. Artists can design products to tempt visitors to fill their virtual passports. For example, resident artist Benjamin Todd Wills will serve grilled cheese sandwiches in his studio. In return for a completed virtual passport, the $10 sandwich price will be waived. Artists’ rewards and their requirements can be customized. I have lots of ideas and potential problems to solve in relation to this app, but it should be a fun one that I can scale up or down in complexity.
 
 
 ### Features
 
-User login/account creation for individuals and families
-Collection of user data 
-Selection of cheese and bread
-Order placement
-Artist profiles and search by medium
-Artist codes for tally of 32 studio visits
+User login/account creation
+Schedule of performances
+Artist profiles include photo, 
+120-word artist bio, 
+description of products or swag
+Search by artist name, medium, performance time, map location
+Artist QR codes for tally of studio visits
 Studio Map
+
 
 
 ### Technologies
 
-Python Flask
-SQLAlchemy
+Unit 2 technologies 
+Python Flask and SQLAlchemy
+Jinja templating
+
+OR 
+
 Node.js
 Firebase
 React
+
+Some way for artists to log guests’ visits
+
+
 
 
 ### What I'll Have to Learn
 
+
 Node.js
 Firebase
 React
+React Native for apps that run on multiple platforms
 
+Some sort of scanning check-in technology for tracking visits 
+
+### Project Tracker
 
 I’ve signed up for Trello and Pivotal, but do not have a clear sense of which will work best for the project.
 
-GitHub Issues are enabled. 
+### GitHub Issues are enabled. 

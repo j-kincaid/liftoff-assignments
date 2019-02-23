@@ -16,13 +16,13 @@ The “Studio Visit” or ”Patron Passport” app will serve as a virtual pass
 
 ### Features
 
-User login/account creation
-Schedule of performances
-Artist profiles include photo, 
-120-word artist bio, 
-description of products or swag
-Search by artist name, medium, performance time, map location
-Artist QR codes for tally of studio visits
+User login/account creation;
+Schedule of performances;
+Artist profiles include photo; 
+120-word artist bio; 
+description of products or swag;
+Search by artist name, medium, performance time, map location;
+Artist QR codes for tally of studio visits;
 Studio Map
 
 

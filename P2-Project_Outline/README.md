@@ -13,6 +13,10 @@ The Charlotte Street Foundation, a local arts nonprofit, manages studio residenc
 
 The “Studio Visit” or ”Patron Passport” app will serve as a virtual passport to log the attendees’ studio visits. Participation will be 100% voluntary, as we want to encourage meaningful exchanges between artists and their guests. It is an opportunity for artists to inform the public about their art, and also a potential setting for sales and connecting to galleries and exhibition curators. Artists can design products to tempt visitors to fill their virtual passports. For example, resident artist Benjamin Todd Wills will serve grilled cheese sandwiches in his studio. In return for a completed virtual passport, the $10 sandwich price will be waived. Artists’ rewards and their requirements can be customized. I have lots of ideas and potential problems to solve in relation to this app, but it should be a fun one that I can scale up or down in complexity.
 
+To achieve the MVP, I must support the mission of the organization: (https://charlottestreet.org/about/mission-history/)
+
+My goal for this project is to facilitate connections between patrons and the art. Fostering engagement and meaningful conversations between artists and the public. I would prefer to incentivize quality over quantity, so I will omit the cheese sandwich ordering feature, although I will retain the visit logging feature so that attendees can track their journey.
+
 
 ### Features
 

@@ -10,6 +10,10 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
+[Search menu] (Studio_visitor/search.png)
+[Map directory] (Studio_visitor/map_template.jpg)
+[Artist Profile sample] (Studio_visitor/appProfile.jpg)
+
 ### Project Tracker
 
 (https://trello.com/b/rTic6Act/liftoff-project)
